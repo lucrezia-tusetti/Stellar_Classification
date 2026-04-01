@@ -1,6 +1,14 @@
 # Stellar_Classification
 Bagging, Random Forest, and Gradient Boosting for stellar classification
 
+## 🛠️ Keywords & Skills
+
+**Skills Applied:**  
+`Random Forest` `Bagging` `Gradient Boosting` `Machine learning` `classification`
+
+**Main Libraries Used in R:**  
+`randomForest` `gbm` 
+
 ## 🌳 Applied methods
 
 This project addresses a **classification problem** using three **tree-based methods**: **Bagging**, **Random Forest**, and **Gradient Boosting**. These methods are widely used in machine learning for their ability to capture complex relationships in data and provide robust predictions.
