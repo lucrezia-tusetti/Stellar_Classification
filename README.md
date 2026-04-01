@@ -4,7 +4,7 @@ Bagging, Random Forest, and Gradient Boosting for stellar classification
 ## 🛠️ Keywords & Skills
 
 **Skills Applied:**  
-`Random Forest` `Bagging` `Gradient Boosting` `Machine learning` `classification`
+`Random Forest` `Bagging` `Gradient Boosting` `Machine learning` `Classification`
 
 **Main Libraries Used in R:**  
 `randomForest` `gbm` 
